@@ -1,0 +1,27 @@
+limitation :
+
+1. third party 
+2. attackers might use new strategies to save from our model
+3. Scarcity of dataset
+4. Static Dataset (not real time)
+
+
+
+Novelty :
+
+trying to make it as general as possible unlike others who manipulate dataset to get higher accuracy.
+
+
+
+future work :
+
+1. deep learning model
+2. increasing accuracy
+3. using third patry services to increase accuracy
+4. Chrome extension
+5. Research paper
+
+
+
+Contribution :
+12,11,11 features baaki common
